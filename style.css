@@ -1,0 +1,14 @@
+body{
+    background-image: url(background.jpg);
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    text-align: left;
+}
+
+.nav-link active{
+    padding: 600px;
+}
