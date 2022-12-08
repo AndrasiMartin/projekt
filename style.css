@@ -1,8 +1,10 @@
 .hatter1{
-    background-image: url(hatter1.jpg);
+    background-image: url(xpanorama1.jpg);
     overflow: hidden;
-    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
 }
 
 .navbar-brand{
