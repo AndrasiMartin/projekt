@@ -5,10 +5,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
+    
 }
 
 .navbar-brand{
-    text-align: left;
+    text-align: right;
 }
 
 .nav-link active{
@@ -16,7 +17,23 @@
 }
 
 .menu{
-    margin-right: 30px;
+    margin-right: 20px;
     margin-left: 260px;
 }
 
+body {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1 {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    border-width: 1px;
+    border-style: inset;
+    border-radius: 100px;
+}
